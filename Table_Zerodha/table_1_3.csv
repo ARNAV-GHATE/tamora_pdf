@@ -1,0 +1,41 @@
+"Order No","Order
+Time","Trade No","Trade
+Time","Security/
+Contract
+description","Buy(B)/
+Sell(S)","Quantity","Gross
+Rate/
+Trade
+Price Per
+unit (in
+foreign
+currency)1","Gross
+Rate/
+Trade
+Price
+Per
+unit
+(Rs)2","Brokerage
+per Unit
+(Rs)","Net Rate
+per unit
+(Rs)","Closing
+Rate per
+Unit(only
+for
+Derivatives)
+(Rs)","Net
+Total
+(Before
+Levies)
+(Rs)","Remarks"
+"NSE-EQ","","","","","","","","","","","","",""
+"202208260004570
+09:21:37
+202208260004570
+00:00:00","","","","BSOFT /
+ INE836A01035","S","19","","500.00","","500.0000","","9500.00
+9500.00
+9500.00",""
+"Sub Total:","","","","","","-19","","","","","","",""
+"Net Total:","","","","","","","","","","","","",""
